@@ -3,7 +3,7 @@ Welcome!
 Moojic a basic prototype of a music application that let's us upload and stream music.
 
 Prerequisites to use this app:
-Python3, Django 1.8 (any later version of Django will work not work), pip
+Python3, Django 1.8 (any later version of Django will not work), pip
 
 If you do not have either of the two(Python/Django), follow the instructions from this page: https://docs.djangoproject.com/en/1.8/howto/windows/
 To install pip, run the command: easy_install pip
